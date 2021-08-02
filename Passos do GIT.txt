@@ -1,0 +1,7 @@
+clone pra clonar o repositório
+pull pra atualizar a versão da branch
+fetch pra ver se tem atualizações nas branches
+commit pra criar o checkpoint
+push pra enviar os commits pro repositorio
+cherrypick pra escolher quais commits queremos pegar de determinada branch
+merge pra misturar duas branches
